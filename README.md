@@ -15,10 +15,4 @@ You want to sign my guest book? Add a comment [here](https://github.com/pborlong
 
 ok that's it bye~ see you around!
 
-<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-
 ![Connor McDavid and Leon Draisaitl laughing on the bench](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM293dnd6d3FpcDlkOHR2aGo5czZhYzhmcmVjOXF0d2J2bmk2bjF5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IeXo2JGArJW0AEuNMy/giphy.gif)
-
-![Connor McDavid and Leon Draisaitl laughing on the bench](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJpMmkya3k4amJpaXAydDI3eG40b3liejcxamNtN3dxYW95cWhpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9R6YAB8njsv0LffXR/giphy.gif)
-
-</div>
