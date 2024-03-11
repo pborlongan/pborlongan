@@ -18,7 +18,7 @@ jobs:
           issue: 3
           approvers: |
             pborlongan
-          guestbook-path: README.md
+          guestbook-path: guestbook.md
       - name: Update guestbook
       run: |
         if [[ `git status --porcelain` ]]; then
