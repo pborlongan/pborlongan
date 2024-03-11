@@ -9,6 +9,7 @@ Outside of tech, you'll see me volunteer for [Dev Edmonton Society](devedmonton.
 You want to sign my guest book? Add a comment [here](https://github.com/pborlongan/pborlongan/issues/4)!
 
 <!--START:guestbook-->
+
 <!--END:guestbook-->
 
 ---
