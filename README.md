@@ -2,15 +2,16 @@
 
 I'm a front-end developer and digital designer. I'm currently learning Vue.js and React!
 
-Outside of tech, you'll see me volunteer for [Dev Edmonton Society](devedmonton.com) or [Ladies Learning Code](https://www.canadalearningcode.ca/). Or hanging out with my cat. Or watching a hockey game with my family. Or doing art. I do a lot of things
+Outside of tech, you'll see me volunteer for [Dev Edmonton Society](https://www.devedmonton.com) or [Ladies Learning Code](https://www.canadalearningcode.ca/). Or hanging out with my cat. Or watching a hockey game with my family. Or doing art. I do a lot of things
 
 ### 🗒 Guestbook
 
 You want to sign my guest book? Add a comment [here](https://github.com/pborlongan/pborlongan/issues/4)!
 
 <!--START:guestbook-->
-> this is what a guestbook post would look like 👋 
-> -[@pborlongan](https://github.com/pborlongan)
+
+> this is what a guestbook post would look like 👋 -[@pborlongan](https://github.com/pborlongan)
+
 <!--END:guestbook-->
 
 ---
