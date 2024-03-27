@@ -9,9 +9,8 @@ Outside of tech, you'll see me volunteer for [Dev Edmonton Society](https://www.
 You want to sign my guest book? Add a comment [here](https://github.com/pborlongan/pborlongan/issues/4)!
 
 <!--START:guestbook-->
-
-> this is what a guestbook post would look like 👋 -[@pborlongan](https://github.com/pborlongan)
-
+> this is what a guestbook post would look like 👋 
+> -[@pborlongan](https://github.com/pborlongan)
 <!--END:guestbook-->
 
 ---
